@@ -75,15 +75,6 @@ bash
 # Run in debug mode
 flutter run
 
-# Run on specific device
-flutter run -d <device_id>
-
-# Run with hot reload
-flutter run --hot
-Build for Production
-Android APK:
-bash
-flutter build apk --release
 
 
 THERE WILL IS A APK ALREADY GENERATED INCASE YOU WISH TO JUST GO TO THE APP STRAIGHT PLEASE RUN ON ANDRIOD ONLY
