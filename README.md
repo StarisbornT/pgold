@@ -56,7 +56,7 @@ Git for version control
 🔧 Installation & Setup
 1. Clone the Repository
 bash
-git clone <your-repository-url>
+git clone (https://github.com/StarisbornT/pgold.git)
 cd pgold
 2. Install Dependencies
 bash
@@ -84,3 +84,7 @@ Build for Production
 Android APK:
 bash
 flutter build apk --release
+
+
+THERE WILL IS A APK ALREADY GENERATED INCASE YOU WISH TO JUST GO TO THE APP STRAIGHT PLEASE RUN ON ANDRIOD ONLY
+
